@@ -1,0 +1,20 @@
+{
+    "name": "com.dgames.essentials.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7d1f450a1a1b64ea480f003727cf75b8",
+        "GUID:99e342926c68d44a1845457735b0e217",
+        "GUID:8ca9a68d20abc432dac11aa0e2d467ef"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
