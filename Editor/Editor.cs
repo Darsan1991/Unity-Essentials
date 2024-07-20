@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace DGames.Essentials.Unity.Editor
 {
-    [CustomEditor(typeof(MonoBehaviour))]
+    [CustomEditor(typeof(MonoBehaviour),true)]
     public class Editor : DGames.Essentials.Editor.Editor
     {
         private FieldInfo[] _serializeInterfaces;
