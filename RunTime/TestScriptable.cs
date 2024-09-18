@@ -7,8 +7,8 @@ using UnityEngine;
 namespace DGames.Essentials
 {
     [HideScriptField]
-    [DashboardMessage("This Info will used in Test purposes adfasdfasd fsdafasfasdf adfasfasfdsaf asfasfasfas asdfasfsafsaf asfasfasfa asdafafa afsafasfas asfasfafsa asdfafasfasd fasfafas  fafadsfasf sfasfa as afasfasf sfa fs fs faf")]
-    [DashboardResourceList(nameof(_items), tabPath: "Games/Test")]
+    // [DashboardMessage("This Info will used in Test purposes adfasdfasd fsdafasfasdf adfasfasfdsaf asfasfasfas asdfasfsafsaf asfasfasfa asdafafa afsafasfas asfasfafsa asdfafasfasd fasfafas  fafadsfasf sfasfa as afasfasf sfa fs fs faf")]
+    // [DashboardResourceList(nameof(_items), tabPath: "Games/Test")]
     public class TestScriptable : ScriptableObject
     {
         [UseTab] [ForceExpand()] [SerializeField]
